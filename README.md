@@ -1,6 +1,6 @@
 # THIS IS MY PROJECT JAVASCRIPT COMPARISONS
 
-## FIRST STEP
+## THIS IS THE STEP
 You need to Input Your Age
 <br>
 Then, Input Your Friend Age.
