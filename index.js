@@ -1,9 +1,9 @@
 "use strict";
 
-let myAge = prompt("Input Your Age");
-let yourAge = prompt("Input Your Friends Age");
+let myAge = parseInt(prompt("Input Your Age"));
+let yourAge = parseInt(prompt("Input Your Friends Age"));
 
-if (myAge && yourAge === Number) {
+if (myAge && yourAge > 0) {
     switch (myAge > yourAge) {
         case true:
             console.log("You are old man");
